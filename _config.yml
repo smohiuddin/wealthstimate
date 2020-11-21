@@ -1,0 +1,7 @@
+theme: jekyll-theme-cayman
+github: 
+  project_tagline: “I have $X, what should I do?”
+  is_project_page: false
+google_analytics: UA-125899912-1
+plugins:
+  - jemoji
